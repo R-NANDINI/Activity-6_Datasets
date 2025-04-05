@@ -1,11 +1,62 @@
 Model,Fuel_Efficiency,Horsepower,Type
-Honda Civic,36,158,Sedan
-Toyota Corolla,34,139,Sedan
-Ford F-150,20,400,Truck
-Chevrolet Silverado,18,355,Truck
+Toyota Corolla,32,139,Sedan
+Ford Mustang,21,450,Coupe
+Honda Civic,35,158,Sedan
+Chevrolet Tahoe,18,355,SUV
+BMW X5,22,335,SUV
+Hyundai Elantra,33,147,Sedan
 Mazda CX-5,28,187,SUV
-BMW X5,23,335,SUV
-Tesla Model 3,130,283,Electric
+Tesla Model 3,120,283,Electric
 Nissan Leaf,111,147,Electric
-Jeep Wrangler,22,285,Off-Road
-Subaru Outback,29,182,Wagon
+Audi A4,27,201,Sedan
+Kia Sportage,25,187,SUV
+Volkswagen Golf,30,147,Hatchback
+Jeep Wrangler,20,285,SUV
+Subaru Outback,29,182,Crossover
+Chevrolet Bolt,118,200,Electric
+Ford F-150,19,400,Truck
+Mercedes C-Class,28,255,Sedan
+Toyota Prius,56,121,Hybrid
+Honda Accord Hybrid,48,212,Hybrid
+Rivian R1T,70,835,Electric Truck
+Lucid Air,113,480,Electric
+BMW i3,99,170,Electric
+Porsche Taycan,76,616,Electric
+Toyota RAV4,27,203,SUV
+Chevrolet Silverado,17,355,Truck
+GMC Sierra,18,420,Truck
+Honda CR-V,28,190,SUV
+Ford Escape Hybrid,40,200,Hybrid
+Nissan Rogue,27,181,SUV
+Hyundai Kona Electric,120,201,Electric
+Tesla Model X,105,670,Electric
+Volvo XC90,25,316,SUV
+Mini Cooper,33,134,Hatchback
+Lexus RX 350,26,295,SUV
+Chrysler Pacifica Hybrid,82,260,Hybrid
+Ram 1500,20,395,Truck
+Jaguar I-PACE,76,394,Electric
+Volkswagen ID.4,99,201,Electric
+Mazda3,31,186,Sedan
+Ford Explorer,24,300,SUV
+Nissan Altima,32,188,Sedan
+Toyota Camry,34,203,Sedan
+Genesis G70,25,252,Sedan
+Chevrolet Equinox,26,170,SUV
+Hyundai Ioniq 5,114,320,Electric
+Audi Q5,25,261,SUV
+Subaru Forester,29,182,SUV
+Buick Encore,28,155,SUV
+Tesla Model S,115,670,Electric
+Honda Fit,36,130,Hatchback
+Dodge Charger,19,370,Sedan
+Ford Ranger,21,270,Truck
+Cadillac Escalade,14,420,SUV
+Mitsubishi Outlander PHEV,74,221,Hybrid
+Infiniti QX60,23,295,SUV
+Alfa Romeo Giulia,24,280,Sedan
+Jeep Grand Cherokee,23,293,SUV
+Toyota Highlander Hybrid,36,243,Hybrid
+BMW 3 Series,30,255,Sedan
+Kia Niro EV,112,201,Electric
+Lincoln Navigator,17,450,SUV
