@@ -1,0 +1,11 @@
+Model,Fuel_Efficiency,Horsepower,Type
+Honda Civic,36,158,Sedan
+Toyota Corolla,34,139,Sedan
+Ford F-150,20,400,Truck
+Chevrolet Silverado,18,355,Truck
+Mazda CX-5,28,187,SUV
+BMW X5,23,335,SUV
+Tesla Model 3,130,283,Electric
+Nissan Leaf,111,147,Electric
+Jeep Wrangler,22,285,Off-Road
+Subaru Outback,29,182,Wagon
